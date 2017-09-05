@@ -11,6 +11,10 @@
     "e2e": "protractor",
     "postinstall": "ng build --aot -prod"
   },
+  "engines": {
+    "node": "8.4.0",
+    "npm": "5.4.0"
+  }
   "private": true,
   "dependencies": {
     "@angular/common": "^2.3.1",
